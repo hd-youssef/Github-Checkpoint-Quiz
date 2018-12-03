@@ -1,4 +1,4 @@
-public class GitTest{
+public class GitTest{//Haddad
 
 	private String declaration;
 
