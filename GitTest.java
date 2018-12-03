@@ -1,4 +1,5 @@
-public class GitTest{//Haddad
+public class GitTest{ //Youssef Haddad
+
 
 	private String declaration;
 
